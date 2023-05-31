@@ -1,0 +1,33 @@
+{
+    "Theme": [
+        {
+            "Name": "Dark Theme",
+            "Text Color": "#ffffff",
+            "Border Color": "#404040",
+            "Background Color": "#303030",
+            "Window Color": "#303030"
+        },
+        {
+            "Name": "Cofee",
+            "Text Color": "#FAF8F1",
+            "Border Color": "#E5BA73",   
+            "Background Color": "#C58940",
+            "Window Color": "#303030"
+        },
+        {
+            "Name": "Blue Eyes",
+            "Text Color": "#EEEEEE",
+            "Border Color": "#00ADB5",   
+            "Background Color": "#222831",
+            "Window Color": "#393E46"
+        },
+        {
+            "Name": "Sunset",
+            "Text Color": "#FFE569",
+            "Border Color": "#B70404",   
+            "Background Color": "#DB005B",
+            "Window Color": "#F79327"
+        }
+
+    ]
+}
